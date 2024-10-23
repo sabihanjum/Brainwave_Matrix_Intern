@@ -7,25 +7,26 @@ Here we will try to solve this issue with the help of machine learning in Python
 Before starting the code, download the dataset by clicking the link.
 Dataset Link : https://www.kaggle.com/datasets/subho117/fake-news-detection-using-machine-learning.
 
-**Steps to be followed**
+#Steps to be followed
 Importing Libraries and Datasets
 Data Preprocessing
 Preprocessing and analysis of News column
 Converting text into Vectors
 Model training, Evaluation, and Prediction
-Importing Libraries and Datasets
+
+#Importing Libraries and Datasets
 The libraries used are : 
 
 Pandas: For importing the dataset.
 Seaborn/Matplotlib: For data visualization.
 
-**Data preprocessing**
+#Data preprocessing
 The shape of the dataset can be found by the below code.
 
-**Preprocessing and analysis of News column**
+#Preprocessing and analysis of News column
 Firstly we will remove all the stopwords, punctuations and any irrelevant spaces from the text. For that NLTK Library is required and some of it’s module need to be downloaded.
 
-**Converting text into Vectors**
+#Converting text into Vectors
 Before converting the data into vectors, split it into train and test.
 
 Model training, Evaluation, and Prediction
@@ -33,7 +34,7 @@ Now, the dataset is ready to train the model.
 
 For training we will use Logistic Regression and evaluate the prediction accuracy using accuracy_score.
 
-**Conclusion**
+#Conclusion
 Decision Tree Classifier and Logistic regression are performing well.
 
 
