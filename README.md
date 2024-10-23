@@ -1,6 +1,6 @@
 ---
 
-# Fake News Detection Using Logistic Regression and Decision Tree Classifier
+# Fake News Detection Using ML (Logistic Regression and Decision Tree Classifier)
 
 ## Project Overview
 This project focuses on classifying news as **fake** or **real** using machine learning techniques. We preprocess the news data, convert text into numerical vectors, and train models to evaluate their performance. The models used include **Logistic Regression** and **Decision Tree Classifier**, with a focus on text data preprocessing, vectorization, and model evaluation.
